@@ -158,5 +158,7 @@ input:focus::placeholder{
         margin-bottom: 40px;
         
     }
+    .inputs input{width: 80%;
+    margin:5px auto ;}
     
 }
