@@ -158,7 +158,10 @@ input:focus::placeholder{
         margin-bottom: 40px;
         
     }
-    .inputs input{width: 50%;
-    margin:5px auto ;}
+    .inputs input{
+        
+width:100px;
+    margin:5px auto ;
+    }
     
 }
